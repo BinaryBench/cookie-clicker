@@ -1,0 +1,44 @@
+body {
+    background-image: url("background.jpg");
+}
+
+h1 {
+    text-align: center;
+    margin-right: 550px;
+    margin-left: 550px;
+    background-color: #ADD8E6;
+}
+
+button {
+    padding: 10px;
+    width: 500px;
+    background: #ADD8E6;
+    font-size: 100%;
+    cursor: pointer;
+}
+
+img:active {
+    margin-top: -12px;
+    width: 280px;
+    height: 280px;
+}
+
+#cookieImg {
+    cursor: pointer;
+}
+
+#cookieDiv {
+    float: left;
+    width: 65%;
+    height: 400px;
+    background: rgba(153, 204, 153, 0.7);
+    text-align: center;
+}
+
+#menuDiv {
+    float: left;
+    width: 35%;
+    height: 400px;
+    background: rgba(204, 153, 204, 0.7);
+    text-align: center;
+}
